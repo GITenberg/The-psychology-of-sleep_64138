@@ -1,0 +1,25 @@
+_repo: The-psychology-of-sleep_64138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, Bolton
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1485'
+    url: http://www.gutenberg.org/2009/agents/1485
+    wikipedia: https://en.wikipedia.org/wiki/Bolton_Hall_(activist)
+description: ''
+gutenberg_issued: '2020-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sleep'
+- !lcc 'BF'
+- GITenberg
+title: The psychology of sleep
+url: http://www.gutenberg.org/ebooks/64138
