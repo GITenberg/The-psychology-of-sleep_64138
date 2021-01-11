@@ -1,5 +1,8 @@
 _repo: The-psychology-of-sleep_64138
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64138-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, Bolton
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1485
     wikipedia: https://en.wikipedia.org/wiki/Bolton_Hall_(activist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64138#The-psychology-of-sleep
 gutenberg_issued: '2020-12-26'
 gutenberg_type: Text
 identifiers:
